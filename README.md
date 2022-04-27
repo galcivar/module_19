@@ -28,7 +28,7 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 
 ---
 ## Usage
-**TODO**
+`streamlit run fintech_finder.py`
 
 ---
 ## Screenshots
