@@ -32,9 +32,16 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 
 ---
 ## Screenshots
-### 
-**TODO**
-
+#### Accounts
+![Accounts](ganache-accounts.png)
+#### Block Details
+![Block Details](ganache-block-details.png)
+#### Blocks
+![Blocks](ganache-blocks.png)
+#### Transaction Details
+![Transaction Details](ganache-tx-details.png)
+#### Transactions
+![Transactions](ganache-tx.png)
 ---
 ## Contributors
 Gabriel Alcivar
